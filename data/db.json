@@ -1,0 +1,46 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Nithesh",
+      "area": "Rajampet",
+      "state": "AndhraPradesh"
+    },
+    {
+      "id": 2,
+      "name": "ReddiSri",
+      "area": "Rajampet",
+      "state": "AndhraPradesh"
+    },
+    {
+      "id": 3,
+      "name": "Nani",
+      "area": "Rajampet",
+      "state": "AndhraPradesh"
+    },
+    {
+      "id": 4,
+      "name": "Harika",
+      "area": "Rajampet",
+      "state": "Texas"
+    },
+    {
+      "id": 5,
+      "name": "Ramu",
+      "area": "Rajampet",
+      "state": "Hyderabad"
+    },
+    {
+      "name": "Radhika",
+      "area": "Karampalli",
+      "state": "",
+      "id": 6
+    },
+    {
+      "name": "kavitha",
+      "area": "kmp",
+      "state": "Telangana",
+      "id": 7
+    }
+  ]
+}
